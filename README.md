@@ -25,6 +25,7 @@ I'm looking to collaborate on:
 🔹 AI-powered Web Applications
 <br>
 🔹 TypeScript-based Full-Stack Projects
+<br>
 🔹 Open-Source Contributions
 
 📫 Contact Me 📩
@@ -32,8 +33,8 @@ I'm looking to collaborate on:
 📍 GitHub: @GolamKIBRI4
 
 ⚡ Fun Fact
+<br>
 💡 I prefer TypeScript over JavaScript!
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="40">
 
 💻 Tech Stack & Tools
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/> </p>
