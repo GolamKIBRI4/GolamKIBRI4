@@ -2,20 +2,28 @@
 I'm a **Software Engineer** passionate about **Web Development** and **AI integration**. Currently, I'm diving deep into the **MERN Stack** while exploring how AI can enhance modern web applications.
 
 👀 Interests & Expertise
+<br>
 ✔ Full-Stack Web Development (MERN: MongoDB, Express, React, Node.js)
-✔ AI-Powered Applications (NLP, Machine Learning, OpenAI, TensorFlow)
+<br>
+✔ AI-Powered Applications (NLP, Machine Learning, OpenAI)
+<br>
 ✔ TypeScript & Scalable Software Architectures
-✔ RESTful APIs & GraphQL
+<br>
+✔ RESTful APIs 
 
 
 🌱 Currently Learning
+<br>
 MERN Stack Development 🚀
+<br>
 FastAPI for AI Integration ⚡
 
 
 💞️ Open to Collaboration 🤝
 I'm looking to collaborate on:
+<br>
 🔹 AI-powered Web Applications
+<br>
 🔹 TypeScript-based Full-Stack Projects
 🔹 Open-Source Contributions
 
