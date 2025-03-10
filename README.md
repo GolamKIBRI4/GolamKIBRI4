@@ -1,5 +1,17 @@
                     Hi there, I'm Golam Kibriya! 👋
-I'm a **Software Engineer** passionate about **Web Development** and **AI integration**. Currently, I'm diving deep into the **MERN Stack** while exploring how AI can enhance modern web applications.
+<table>
+  <tr>
+    <td>
+      <p>
+        I'm a **Software Engineer** passionate about **Web Development** and **AI integration**. 
+        Currently, I'm diving deep into the **MERN Stack** while exploring how AI can enhance modern web applications.
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer at Work">
+    </td>
+  </tr>
+</table>
 
 👀 Interests & Expertise
 <br>
