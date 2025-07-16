@@ -22,6 +22,8 @@
 ✔ TypeScript & Scalable Software Architectures
 <br>
 ✔ RESTful APIs 
+<br>
+✔ PostgreSQL
 
 
 🌱 Currently Learning
